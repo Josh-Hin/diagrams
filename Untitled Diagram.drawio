@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-07T00:54:20.468Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="65Hxk0EQMT6Zm4TbUURM" version="23.1.1" type="github" pages="2">
+<mxfile modified="2024-02-07T01:15:30.581Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="JG_crTO7Qxra5THZ7G32" version="23.1.1" type="github" pages="2">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -252,6 +252,9 @@
         </mxCell>
         <mxCell id="jqtK98orMPLJmdBe8KaK-7" value="Flow" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="830" y="295" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jqtK98orMPLJmdBe8KaK-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
