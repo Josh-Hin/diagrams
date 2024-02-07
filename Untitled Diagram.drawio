@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-07T02:59:05.523Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="fzWSlZb405vYvbBqb-Ig" version="23.1.1" type="github">
+<mxfile modified="2024-02-07T02:59:27.951Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="LZPEbBN5ivfc10T9ZsFv" version="23.1.1" type="github">
   <diagram id="hOmpC_3qpGD7bDlE_Dh1" name="Page-2">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -156,9 +156,6 @@
         </mxCell>
         <mxCell id="LgoMxuj7KpKztUe1_G1r-3" value="Power Virtual Agent" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LgoMxuj7KpKztUe1_G1r-4" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LgoMxuj7KpKztUe1_G1r-5" value="Power Automate" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="160" width="140" height="19" as="geometry" />
